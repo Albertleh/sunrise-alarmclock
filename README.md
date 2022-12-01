@@ -6,4 +6,4 @@ https://www.amazon.de/Philips-HF3531-Light-Sonnenaufgangfunktion-Tageslichtwecke
 
 An old desk lamp + Arduino, ... voila! 
 
-Flash this script onto your Arduino and choose a ledpin that supports pwm. You can hook up leds that are then gonna be dimmed like a sunrise on a desired wake up time. Or what I also like is to take a beefier lightsource and use a mosfet to control high-amp lights to blow your face out of bed in the morning if you know you have a particulary hard time waking up. 
+Flash this script onto your Arduino and choose a pin that supports pwm. You can hook up leds that are then gonna be dimmed like a sunrise on a desired wake up time. Or what I also like is to take a beefier lightsource and use a mosfet to control high-amp lights to blow your face out of bed in the morning if you know you have a particulary hard time waking up. 
