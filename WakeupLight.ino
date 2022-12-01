@@ -2,7 +2,7 @@
 #include <TimeLib.h> 
 
 #define LEDPIN 3 // pwm out
-#define MAX_BRIGHTNESS 150.0
+#define MAX_BRIGHTNESS 150.0 // 0-255 
 
 #define SHINE_MAX_BRIGHTNESS_SECONDS 120 // shine at max brightness after sunrise
 #define SUNRISE_LENGTH_MINUTES 30 // how long the sunrise buildup should take
